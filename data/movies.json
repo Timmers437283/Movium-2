@@ -99,15 +99,15 @@
     {
       "id": "the-odyssey",
       "title": "The Odyssey",
-      "featuredText": "https://upload.wikimedia.org/wikipedia/commons/e/e6/TheOdysseyMovie2026Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "featuredText": "https://image.tmdb.org/t/p/w500/cLBbiPqF8IvmkANROY3Ar4NhOgY.png",
       "year": 2026,
       "rating": 8.4,
       "duration": "2h 53m",
       "genre": ["Adventure", "Action", "Drama"],
       "description": "After the Trojan War, Odysseus, king of Ithaca, embarks on a dangerous journey home. Along the way, he faces mythical creatures, treacherous obstacles, and extraordinary challenges as he fights to reunite with his family.",
       "director": "Christopher Nolan",
-      "cover": "https://images.contentstack.io/v3/assets/blt13adb7e2033fcee5/blt18c3eb44d6f8d6d6/6acd0e896ac96c5416a0d117/TheOdyssey_keyart_desktop_2000x3000.jpg?width=2560",
-      "bigCover": "https://images.contentstack.io/v3/assets/blt13adb7e2033fcee5/blte52a903d095cd8b6/6acd0e9e04e8522ff87cfbb4/TheOdyssey_keyart_mobile_3840x2160.jpg?width=2560",
+      "cover": "https://image.tmdb.org/t/p/w780/ugEXTmwvFj8oqOui6ZwXjQgSwAp.jpg",
+      "bigCover": "https://image.tmdb.org/t/p/original/n3D2Lmwomtbc4SZFO8hLtLL0b5q.jpg",
       "featured": true,
       "link": "https://vidfast.vc/movie/tt33764258",
       "actors": [
