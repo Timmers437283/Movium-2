@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#030303">
+    <title>Movium 2</title>
+
+    <link rel="icon" type="image/png" href="assets/favicon.ico">
+    <link rel="apple-touch-icon" href="assets/favicon.ico">
+    <link rel="stylesheet" href="css/styles.css">
+
+    <script src="scram/scramjet.all.js"></script>
+    <script src="baremux/index.js"></script>
+    <script src="register-sw.js" defer></script>
+    <script src="js/app.js" defer></script>
+</head>
+<body>
+
+<header class="navbar">
+    <a href="#" class="logo" id="home-link">
+        <img src="assets/logo.png" alt="Movium 2">
+    </a>
+
+    <nav>
+        <button class="nav-link active" id="nav-home">Home</button>
+        <button class="nav-link" id="nav-movies">Movies</button>
+        <button class="nav-link" id="nav-documentaries">Documentaries</button>
+        <button class="nav-link" id="nav-library">My Library</button>
+    </nav>
+
+    <div class="nav-search">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg>
+        <input id="movie-search" placeholder="Search movies..." autocomplete="off">
+    </div>
+</header>
+
+<main id="home-screen">
+
+    <section class="featured" id="featured">
+        <img id="featured-backdrop" class="featured-backdrop" alt="">
+        <div class="featured-overlay"></div>
+
+        <div class="featured-content">
+            <h1 id="featured-title">Movium</h1>
+
+            <button class="primary-button" id="featured-watch">
+                Watch now
+            </button>
+
+            <button class="secondary-button" id="featured-details">
+                More info
+            </button>
+        </div>
+
+        <!-- Dots: one per featured movie, the active one fills up as a timer -->
+        <div id="featured-dots" class="featured-dots"></div>
+    </section>
+
+    <section class="catalog-section">
+        <div class="section-heading">
+            <div>
+                <h2>Movies</h2>
+            </div>
+
+            <span class="section-count" id="movie-count"></span>
+        </div>
+
+        <div class="movie-grid" id="movie-grid"></div>
+
+        <div class="empty-state" id="empty-state" hidden>
+            <h3>No movies found</h3>
+            <p>Add movies to your movies.json file to get started.</p>
+        </div>
+    </section>
+
+    <footer>
+        <img class="footer-logo" src="assets/logo.png" alt="Movium 2">
+        
+    </footer>
+
+</main>
+
+<!-- DOCUMENTARIES -->
+
+<section id="documentaries-screen" hidden>
+    <section class="catalog-section">
+        <div class="section-heading">
+            <div>
+                <h2>Documentaries</h2>
+            </div>
+
+            <span class="section-count" id="documentary-count"></span>
+        </div>
+
+        <div class="movie-grid" id="documentary-grid"></div>
+
+        <div class="empty-state" id="documentary-empty" hidden>
+            <h3>No documentaries found</h3>
+            <p>Add documentaries to your documentaries.json file to get started.</p>
+        </div>
+    </section>
+
+    <footer>
+        <img class="footer-logo" src="assets/logo.png" alt="Movium 2">
+    </footer>
+</section>
+
+<!-- MY LIBRARY -->
+
+<section id="library-screen" hidden>
+    <section class="catalog-section">
+        <div class="section-heading">
+            <div>
+                <h2>My Library</h2>
+            </div>
+
+            <span class="section-count" id="library-count"></span>
+        </div>
+
+        <div class="movie-grid" id="library-grid"></div>
+
+        <div class="empty-state" id="library-empty" hidden>
+            <h3>Your library is empty</h3>
+            <p>Open a movie and tick Add to Library to save it here.</p>
+
+            <button class="primary-button library-empty-action" id="library-discover">
+                Discover movies
+            </button>
+        </div>
+    </section>
+
+    <footer>
+        <img class="footer-logo" src="assets/logo.png" alt="Movium 2">
+        
+    </footer>
+</section>
+
+<!-- MOVIE DETAILS -->
+
+<section id="details-screen" hidden>
+    <div class="details-backdrop">
+        <img id="details-backdrop" alt="">
+        <div class="details-backdrop-overlay"></div>
+    </div>
+
+    <div class="details-content">
+        <button class="back-button" id="details-back">
+            &lt; Back
+        </button>
+
+        <div class="details-main">
+            <img id="details-cover" class="details-cover" alt="">
+
+            <div class="details-information">
+                <h1 id="details-title"></h1>
+
+                <div class="details-meta" id="details-meta"></div>
+
+                <p class="details-description" id="details-description"></p>
+
+                <div class="details-credits">
+                    <div>
+                        <span id="details-director-label">Director</span>
+                        <strong id="details-director"></strong>
+                    </div>
+
+                    <div id="details-narrator-wrap" hidden>
+                        <span>Narrator</span>
+                        <strong id="details-narrator"></strong>
+                    </div>
+
+                    <div>
+                        <span>Genres</span>
+                        <strong id="details-genres"></strong>
+                    </div>
+
+                    <div id="details-extra-wrap" hidden>
+                        <span>Country</span>
+                        <strong id="details-extra"></strong>
+                    </div>
+                </div>
+
+                <div class="details-actions">
+                    <button class="primary-button" id="details-watch">
+                        Watch now
+                    </button>
+
+                    <button class="library-check" id="details-library" type="button" aria-pressed="false">
+                        <span class="library-check-box" aria-hidden="true">
+                            <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>
+                        </span>
+                        <span class="library-check-label">Add to Library</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <section class="cast-section">
+            <h2>Cast</h2>
+            <div class="cast-grid" id="cast-grid"></div>
+        </section>
+    </div>
+</section>
+
+<!-- SCRAMJET PLAYER -->
+
+<section id="player-screen" hidden>
+    <div id="player-error" hidden></div>
+
+    <div id="player-frame-container"></div>
+
+    <div id="player-loading">
+        <img src="assets/loading.gif" alt="Loading">
+    </div>
+
+    <div id="player-hotzone" hidden></div>
+
+    <button class="player-back" id="player-back" type="button"
+            title="Back to movie info" aria-label="Back to movie info">&lt;</button>
+</section>
+
+</body>
+</html>

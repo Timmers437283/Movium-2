@@ -1,0 +1,210 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#0c0c0c">
+    <title>404 | Movium</title>
+
+    <script>
+        (function () {
+            var base = "/";
+            if (/\.github\.io$/.test(location.hostname)) {
+                var first = location.pathname.split("/")[1];
+                if (first) base = "/" + first + "/";
+            }
+            document.write('<base href="' + base + '">');
+        })();
+    </script>
+
+    <link rel="icon" type="image/png" href="assets/logo.png">
+
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            min-height: 100vh;
+            background: #0c0c0c;
+            color: #f5f5f5;
+            font-family: Inter, -apple-system, BlinkMacSystemFont,
+                "Segoe UI", sans-serif;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        main {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 30px;
+        }
+
+        .content {
+            width: 100%;
+            max-width: 520px;
+            text-align: center;
+            animation: appear .6s ease both;
+        }
+
+        .logo {
+            font-size: 19px;
+            font-weight: 750;
+            letter-spacing: -0.8px;
+            margin-bottom: 65px;
+        }
+
+        .logo span {
+            color: #666;
+            font-weight: 400;
+        }
+
+        .error {
+            font-size: clamp(110px, 23vw, 180px);
+            font-weight: 800;
+            letter-spacing: -13px;
+            line-height: .9;
+            color: #f5f5f5;
+            user-select: none;
+        }
+
+        .error span {
+            color: #333;
+        }
+
+        h2 {
+            font-size: 23px;
+            font-weight: 650;
+            letter-spacing: -.7px;
+            margin-top: 35px;
+        }
+
+        .description {
+            color: #777;
+            font-size: 14px;
+            line-height: 1.7;
+            margin: 12px auto 28px;
+            max-width: 340px;
+        }
+
+        .actions {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+        }
+
+        .button {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            height: 43px;
+            padding: 0 19px;
+            border-radius: 7px;
+            font-size: 13px;
+            font-weight: 600;
+            text-decoration: none;
+            transition: .2s ease;
+        }
+
+        .primary {
+            background: #f5f5f5;
+            color: #111;
+        }
+
+        .primary:hover {
+            background: #d9d9d9;
+            transform: translateY(-2px);
+        }
+
+        .secondary {
+            color: #aaa;
+            border: 1px solid #292929;
+        }
+
+        .secondary:hover {
+            background: #181818;
+            color: white;
+        }
+
+        footer {
+            padding: 23px 30px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-top: 1px solid #1c1c1c;
+            color: #555;
+            font-size: 11px;
+        }
+
+        footer a {
+            color: #777;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            color: #ddd;
+        }
+
+        @keyframes appear {
+            from {
+                opacity: 0;
+                transform: translateY(12px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @media (max-width: 480px) {
+            .logo {
+                margin-bottom: 55px;
+            }
+
+            .error {
+                letter-spacing: -8px;
+            }
+
+            footer {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <div class="content">
+            <div class="logo">movium<span>.</span></div>
+
+            <div class="error">4<span>0</span>4</div>
+
+            <h2>Lost in the stream?</h2>
+
+            <p class="description">
+                Looks like this page doesn't exist or may have been moved.
+                Let's get you back to something good.
+            </p>
+
+            <div class="actions">
+                <a href="./" class="button primary">Back to Movium</a>
+                <a href="javascript:history.back()" class="button secondary">
+                    Go back
+                </a>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <a href="credits.html">Credits</a>
+        <span>Scramjet &copy; MW 2025</span>
+    </footer>
+</body>
+</html>

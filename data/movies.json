@@ -1,0 +1,580 @@
+{
+  "movies": [
+    {
+      "id": "interstellar",
+      "title": "Interstellar",
+      "featuredText": "https://i.postimg.cc/x1QspFJZ/New-Project-(2).png",
+      "year": 2014,
+      "rating": 8.7,
+      "duration": "2h 49m",
+      "genre": ["Sci-Fi", "Adventure", "Drama"],
+      "description": "A team of explorers travels beyond this galaxy to discover whether mankind has a future among the stars.",
+      "director": "Christopher Nolan",
+      "cover": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "bigCover": "https://image.tmdb.org/t/p/original/xJHokMbljvjADYdit5fK5VQsXEG.jpg",
+      "featured": false,
+      "link": "https://vidfast.vc/movie/157336",
+      "actors": [
+        {
+          "name": "Matthew McConaughey",
+          "role": "Joseph Cooper",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTg0MDc3ODUwOV5BMl5BanBnXkFtZTcwMTk2NjY4Nw@@._V1_.jpg"
+        },
+        {
+          "name": "Anne Hathaway",
+          "role": "Dr. Amelia Brand",
+          "image": "https://image.tmdb.org/t/p/w185/tLelKoPNiyJCSEtQTz1FGv4TLGc.jpg"
+        },
+        {
+          "name": "Jessica Chastain",
+          "role": "Murph Cooper",
+          "image": "https://image.tmdb.org/t/p/w185/lodMzLKSdrPcBry6TdoDsMN3Vge.jpg"
+        }
+      ]
+    },
+    {
+      "id": "phm",
+      "title": "Project Hail Mary",
+      "featuredText": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/346x192/v3/t/assets/p27249015_ttd_h95_aa.png",
+      "year": 2026,
+      "rating": 8.2,
+      "duration": "2h 36m",
+      "genre": ["Sci-Fi", "Adventure", "Drama"],
+      "description": "Science teacher Ryland Grace wakes up alone aboard a spaceship light-years from Earth with no memory of how he got there. As his memories return, he discovers his mission is to save humanity from an extinction-level threat. Along the way, he encounters an unexpected ally.",
+      "director": "Phil Lord, Christopher Miller",
+      "cover": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/370/2026/03/14095617/iOb2fjXLbpJgyQXe46n1WtGCnaa-scaled.jpg",
+      "bigCover": "https://bestofsno.com/wp-content/uploads/2026/04/26-0330-Project-hail-mary.jpg",
+      "featured": true,
+      "link": "https://vidfast.vc/movie/tt12042730",
+      "actors": [
+        {
+          "name": "Ryan Gosling",
+          "role": "Ryland Grace",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ryan-Thomas-Gosling.jpg"
+        },
+        {
+          "name": "Sandra Hüller",
+          "role": "Eva Stratt",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sandra%20H%C3%BCller%20at%20Berlinale%202026-1.jpg"
+        },
+        {
+          "name": "James Ortiz",
+          "role": "Rocky",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp6mlU-GPlwycIs3Md_v9uq5n7YxmixD7C1dTZzhPFPxUIhN6OaCvezb70jlIvwmtzRLHYV8Mq8UcxPP4vRlPCqmqh6hh7ANn1HgXCOw&s=10"
+        }
+      ]
+    },
+    {
+      "id": "war-machine",
+      "title": "War Machine",
+      "featuredText": "https://images.plex.tv/photo?size=large-1280&scale=1&url=https%3A%2F%2Fmetadata-static.plex.tv%2F5%2F683a142553%2F5399db6360db996e7c74f218074415d0.png",
+      "year": 2026,
+      "rating": 6.3,
+      "duration": "1h 49m",
+      "genre": ["Action", "Sci-Fi", "Thriller"],
+      "description": "During the final stage of Army Ranger selection, an elite team of recruits finds their training exercise turned into a fight for survival against an unimaginable otherworldly threat.",
+      "director": "Patrick Hughes",
+      "cover": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/22/War_Machine_poster.jpeg/250px-War_Machine_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "bigCover": "https://theactionelite.com/wp-content/uploads/2026/03/War-Machine-2026.webp",
+      "featured": false,
+      "link": "https://vidfast.vc/movie/1265609",
+      "actors": [
+        {
+          "name": "Alan Ritchson",
+          "role": "81",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alan_Ritchson.jpg"
+        },
+        {
+          "name": "Stephan James",
+          "role": "7",
+          "image": "https://brunicogimages.s3.amazonaws.com/delegatephotos/large/962537.jpg"
+        },
+        {
+          "name": "Dennis Quaid",
+          "role": "Sheridan",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStAVbM1Y23MRIsF1UQOXq9SS2SvOIilQPnyeCpYtZkQg&s=10"
+        }
+      ]
+    },
+    {
+      "id": "the-odyssey",
+      "title": "The Odyssey",
+      "featuredText": "https://upload.wikimedia.org/wikipedia/commons/e/e6/TheOdysseyMovie2026Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "year": 2026,
+      "rating": 8.4,
+      "duration": "2h 53m",
+      "genre": ["Adventure", "Action", "Drama"],
+      "description": "After the Trojan War, Odysseus, king of Ithaca, embarks on a dangerous journey home. Along the way, he faces mythical creatures, treacherous obstacles, and extraordinary challenges as he fights to reunite with his family.",
+      "director": "Christopher Nolan",
+      "cover": "https://images.contentstack.io/v3/assets/blt13adb7e2033fcee5/blt18c3eb44d6f8d6d6/6acd0e896ac96c5416a0d117/TheOdyssey_keyart_desktop_2000x3000.jpg?width=2560",
+      "bigCover": "https://images.contentstack.io/v3/assets/blt13adb7e2033fcee5/blte52a903d095cd8b6/6acd0e9e04e8522ff87cfbb4/TheOdyssey_keyart_mobile_3840x2160.jpg?width=2560",
+      "featured": true,
+      "link": "https://vidfast.vc/movie/tt33764258",
+      "actors": [
+        {
+          "name": "Matt Damon",
+          "role": "Odysseus",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Matt_Damon_TIFF_2015.jpg"
+        },
+        {
+          "name": "Tom Holland",
+          "role": "Telemachus",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_Holland_by_Gage_Skidmore.jpg"
+        },
+        {
+          "name": "Anne Hathaway",
+          "role": "Penelope",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anne_Hathaway_at_the_2017_Berlin_Film_Festival.jpg"
+        }
+      ]
+    },
+    {
+      "id": "tetris",
+      "title": "Tetris",
+      "featuredText": "https://image.tmdb.org/t/p/original/xmW3I14u65cTCBPdkzftCB8Vbhb.png",
+      "year": 2023,
+      "rating": 7.4,
+      "duration": "1h 57m",
+      "genre": ["Biography", "Drama", "Thriller"],
+      "description": "In 1988, video game entrepreneur Henk Rogers discovers Tetris and travels to the Soviet Union to secure the rights to the game. As he navigates political tensions, complicated negotiations, and corporate competition, he risks everything to bring Tetris to the world.",
+      "director": "Jon S. Baird",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlR7vZeWD7PSj2GQV2CL4OD7zHnlQQfnW36u8LcIGxMQ&s=10",
+      "bigCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSJk6SxmvB7HrMgQPHeVKjajd7qP4q0gb54m9d_ifBJ6v1v5fp2NR4Ez8&s=10",
+      "featured": true,
+      "link": "https://vidfast.vc/movie/tt12758060",
+      "actors": [
+        {
+          "name": "Taron Egerton",
+          "role": "Henk Rogers",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Taron_Egerton_by_Gage_Skidmore.jpg"
+        },
+        {
+          "name": "Nikita Efremov",
+          "role": "Alexey Pajitnov",
+          "image": "https://image.tmdb.org/t/p/w500/swwemkQaEJYWlJcxqquXqjdjaoY.jpg"
+        },
+        {
+          "name": "Sofia Lebedeva",
+          "role": "Sasha",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Sofia_Lebedeva_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
+        }
+      ]
+    },
+    {
+      "id": "how-to-train-your-dragon-2025",
+      "title": "How to Train Your Dragon",
+      "featuredText": null,
+      "year": 2025,
+      "rating": 7.7,
+      "duration": "2h 5m",
+      "genre": ["Fantasy", "Adventure", "Action", "Family"],
+      "description": "On the island of Berk, a young Viking named Hiccup challenges tradition when he befriends Toothless, a powerful Night Fury dragon. Their friendship could change the relationship between Vikings and dragons forever.",
+      "director": "Dean DeBlois",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/8/80/How_To_Train_Your_Dragon_2025_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+      "bigCover": "https://dcstake.com/wp-content/uploads/2025/06/img_8102-1.png?w=2000&h=1125&crop=1",
+      "featured": false,
+      "link": "https://vidfast.vc/movie/tt26743210",
+      "actors": [
+        {
+          "name": "Mason Thames",
+          "role": "Hiccup",
+          "image": "https://static01.nyt.com/images/2025/06/19/multimedia/15cul-dragon-qa4-lvpf/15cul-dragon-qa4-lvpf-articleLarge.jpg?quality=75&auto=avif&disable=upscale"
+        },
+        {
+          "name": "Nico Parker",
+          "role": "Astrid",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnAt8wUTLvdI90VoYO9mCWA-ZMn7Cv6xfUKeyWd7qK52HUh0TIjgUOdjJi2wt9_T3zPx4XiwdIYH2m-0Lko1FyrFQgsFkvCynVsFhB8rU&s=10"
+        },
+        {
+          "name": "Gerard Butler",
+          "role": "Stoick the Vast",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/gerard-butler-20808745-1-402.jpg"
+        }
+      ]
+    },
+    {
+      "id": "the-truman-show",
+      "title": "The Truman Show",
+      "featuredText": null,
+      "year": 1998,
+      "rating": 8.2,
+      "duration": "1h 44m",
+      "genre": ["Drama", "Comedy", "Sci-Fi"],
+      "description": "Truman Burbank lives an ordinary life in a seemingly perfect seaside town. However, he slowly begins to discover that his entire world may be an elaborate television production and that everyone around him is hiding something.",
+      "director": "Peter Weir",
+      "cover": "https://cdn.phototourl.com/anon/2026-11-21-f47804ca-cfb5-4830-9f61-efdea6faad39.png",
+      "bigCover": "https://cdn.britannica.com/02/262402-050-251A3978/Still-from-The-Truman-Show-The-Truman-Show-is-a-1997-American-film-directed-by-Peter-Weir-Starring-Jim-Carrey-Ed-Harris-Paul-Giamatti-Laura-Linney.jpg",
+      "featured": false,
+      "link": "https://vidfast.vc/movie/tt0120382",
+      "actors": [
+        {
+          "name": "Jim Carrey",
+          "role": "Truman Burbank",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jim%20Carrey.jpg"
+        },
+        {
+          "name": "Laura Linney",
+          "role": "Meryl Burbank",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYT3nw7LzDIFe92rzfQbC6lC6Wpi1L2-JyOLJeVAHRlPLyPbou5d8yA0Th36rWN7_AsV-fnLkiCOH_064Cn9Tou3jM9LKfgO81bd_bMdU&s=10"
+        },
+        {
+          "name": "Ed Harris",
+          "role": "Christof",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ed%20Harris%20%2825847902315%29.jpg"
+        }
+      ]
+    },
+    {
+      "id": "whiplash",
+      "title": "Whiplash",
+      "featuredText": null,
+      "year": 2014,
+      "rating": 8.5,
+      "duration": "1h 46m",
+      "genre": ["Drama", "Music"],
+      "description": "Andrew Neyman is an ambitious young drummer determined to become one of the greatest musicians of his generation. His dedication is tested when he encounters Terence Fletcher, a demanding instructor whose teaching methods push him to his limits.",
+      "director": "Damien Chazelle",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiNc19S1apNNNCnvKej06hqG1sP7OGvgAEtQuuKNNncEwcMYWS0yfTjlG_&s=10",
+      "bigCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwoH06d-T_YPhlusDVNUQwSmnAEDTwQ5z8bhyn7dQk2pl1UTOq2gZFtrk&s=10",
+      "featured": false,
+      "link": "https://vidfast.vc/movie/tt2582802",
+      "actors": [
+        {
+          "name": "Miles Teller",
+          "role": "Andrew Neyman",
+          "image": "https://www.earwolf.com/wp-content/uploads/2016/03/Screen-shot-2016-03-16-at-12.38.44-AM.png"
+        },
+        {
+          "name": "J.K. Simmons",
+          "role": "Terence Fletcher",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7XRbEb9na0tlgkEEz7r7PzZqJMR2Tqj89ZJEe_SSsqA&s=10"
+        },
+        {
+          "name": "Paul Reiser",
+          "role": "Jim Neiman",
+          "image": "https://www.binghamton.edu/anderson-center/26_27_season/reiser.jpg"
+        }
+      ]
+    },
+    {
+      "id": "the-hunger-games",
+      "title": "The Hunger Games",
+      "featuredText": null,
+      "year": 2012,
+      "rating": 7.2,
+      "duration": "2h 22m",
+      "genre": ["Sci-Fi", "Action", "Adventure", "Thriller"],
+      "description": "In a dystopian future, Katniss Everdeen volunteers to take her younger sister's place in the Hunger Games, a televised competition where young contestants are forced to fight for survival.",
+      "director": "Gary Ross",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRYyGvEMCSU1cMFfFhzlze35VAnC-H2ee7jSWOvm0w1Hx4GXFSYtNEmoPzLNvYSy5-zrGr&s=10",
+      "bigCover": "https://www.cgmagonline.com/wp-content/uploads/2012/03/76cc51957bebdc690af283398b56543e.jpg",
+      "featured": false,
+      "link": "https://vidfast.vc/movie/tt1392170",
+      "actors": [
+        {
+          "name": "Jennifer Lawrence",
+          "role": "Katniss Everdeen",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV_MrJQoUI-6IbkvQgCtt8_AK-NvaQlE3hK7o8nYpYM7HYK75RfcVSD7y3CtQJwYPViQGVymWOfd0lGpQGVN1u3TpVBizoPtyAykc99w&s=10"
+        },
+        {
+          "name": "Josh Hutcherson",
+          "role": "Peeta Mellark",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsuImORra4g_W5aaTV-2hT5UZn7RUvGJIkzMYV6ORXPQdgR_oNoSM0Hv1fWZKo3R7vOpsESt-Mu4uTl_Q0Th2lsin9C2CxfEPno2opgw&s=10"
+        },
+        {
+          "name": "Liam Hemsworth",
+          "role": "Gale Hawthorne",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0uTXTyPtjIzGZHYfMogt3E2JKM6v22TkmT_Ewx38BPmeMkwnbzWd3uvvCpF21QbtYvh_lZaC3vUbCf8gHHhy4aDjHxGIplshbUGjcyQ&s=10"
+        }
+      ]
+    },
+    {
+      "id": "the-hunger-games-catching-fire",
+      "title": "The Hunger Games: Catching Fire",
+      "featuredText": null,
+      "year": 2013,
+      "rating": 7.5,
+      "duration": "2h 26m",
+      "genre": ["Sci-Fi", "Action", "Adventure", "Thriller"],
+      "description": "After surviving the 74th Hunger Games, Katniss and Peeta return home as symbols of rebellion. As unrest spreads throughout Panem, President Snow announces a special Quarter Quell that forces them back into the arena.",
+      "director": "Francis Lawrence",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWHytPy3UgzLq_cvZUxi4P-J1pvrRSZIQQkr4PbXVaTlJy4qxE00w1hJgxf8XSIdHRDeT8zQ&s=10",
+      "bigCover": "https://www.pluggedin.com/wp-content/uploads/2019/12/Hunger-Games-Catching-Fire-large-1200x686.jpg",
+      "featured": false,
+      "link": "https://vidfast.vc/movie/tt1951264",
+      "actors": [
+        {
+          "name": "Jennifer Lawrence",
+          "role": "Katniss Everdeen",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV_MrJQoUI-6IbkvQgCtt8_AK-NvaQlE3hK7o8nYpYM7HYK75RfcVSD7y3CtQJwYPViQGVymWOfd0lGpQGVN1u3TpVBizoPtyAykc99w&s=10"
+        },
+        {
+          "name": "Josh Hutcherson",
+          "role": "Peeta Mellark",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsuImORra4g_W5aaTV-2hT5UZn7RUvGJIkzMYV6ORXPQdgR_oNoSM0Hv1fWZKo3R7vOpsESt-Mu4uTl_Q0Th2lsin9C2CxfEPno2opgw&s=10"
+        },
+        {
+          "name": "Liam Hemsworth",
+          "role": "Gale Hawthorne",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0uTXTyPtjIzGZHYfMogt3E2JKM6v22TkmT_Ewx38BPmeMkwnbzWd3uvvCpF21QbtYvh_lZaC3vUbCf8gHHhy4aDjHxGIplshbUGjcyQ&s=10"
+        }
+      ]
+    },
+    {
+      "id": "the-hunger-games-mockingjay-part-1",
+      "title": "The Hunger Games: Mockingjay - Part 1",
+      "featuredText": null,
+      "year": 2014,
+      "rating": 6.6,
+      "duration": "2h 3m",
+      "genre": ["Sci-Fi", "Action", "Adventure", "Drama"],
+      "description": "After the destruction of the arena, Katniss finds herself in District 13. As the rebellion against the Capitol grows, she becomes the face of the revolution while fighting to save those she loves.",
+      "director": "Francis Lawrence",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPv95AIbDvT3tcMUnAAYvUj2cOtz0YDRO5uO1Zst2mM39zOg2YRAmXiL34H0mjG751NL5I&s=10",
+      "bigCover": "https://www.movies4kids.co.uk/wp-content/uploads/sites/15/2014/11/mockingjay-1920-554390-1920x1200.jpg",
+      "featured": false,
+      "link": "https://vidfast.vc/movie/tt1951265",
+      "actors": [
+        {
+          "name": "Jennifer Lawrence",
+          "role": "Katniss Everdeen",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV_MrJQoUI-6IbkvQgCtt8_AK-NvaQlE3hK7o8nYpYM7HYK75RfcVSD7y3CtQJwYPViQGVymWOfd0lGpQGVN1u3TpVBizoPtyAykc99w&s=10"
+        },
+        {
+          "name": "Josh Hutcherson",
+          "role": "Peeta Mellark",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsuImORra4g_W5aaTV-2hT5UZn7RUvGJIkzMYV6ORXPQdgR_oNoSM0Hv1fWZKo3R7vOpsESt-Mu4uTl_Q0Th2lsin9C2CxfEPno2opgw&s=10"
+        },
+        {
+          "name": "Liam Hemsworth",
+          "role": "Gale Hawthorne",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0uTXTyPtjIzGZHYfMogt3E2JKM6v22TkmT_Ewx38BPmeMkwnbzWd3uvvCpF21QbtYvh_lZaC3vUbCf8gHHhy4aDjHxGIplshbUGjcyQ&s=10"
+        }
+      ]
+    },
+    {
+      "id": "the-hunger-games-mockingjay-part-2",
+      "title": "The Hunger Games: Mockingjay - Part 2",
+      "featuredText": null,
+      "year": 2015,
+      "rating": 6.5,
+      "duration": "2h 17m",
+      "genre": ["Sci-Fi", "Action", "Adventure", "Drama"],
+      "description": "Katniss and her closest allies leave District 13 for a dangerous mission through the Capitol. As the rebellion reaches its final stage, Katniss must confront President Snow and decide what kind of future Panem deserves.",
+      "director": "Francis Lawrence",
+      "cover": "https://m.media-amazon.com/images/M/MV5BNjQzNDI2NTU1Ml5BMl5BanBnXkFtZTgwNTAyMDQ5NjE@._V1_.jpg",
+      "bigCover": "https://reporter.lcms.org/wp-content/uploads/2015/11/mockingjay2-IN.jpg",
+      "featured": false,
+      "link": "https://vidfast.vc/movie/tt1951266",
+      "actors": [
+        {
+          "name": "Jennifer Lawrence",
+          "role": "Katniss Everdeen",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV_MrJQoUI-6IbkvQgCtt8_AK-NvaQlE3hK7o8nYpYM7HYK75RfcVSD7y3CtQJwYPViQGVymWOfd0lGpQGVN1u3TpVBizoPtyAykc99w&s=10"
+        },
+        {
+          "name": "Josh Hutcherson",
+          "role": "Peeta Mellark",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsuImORra4g_W5aaTV-2hT5UZn7RUvGJIkzMYV6ORXPQdgR_oNoSM0Hv1fWZKo3R7vOpsESt-Mu4uTl_Q0Th2lsin9C2CxfEPno2opgw&s=10"
+        },
+        {
+          "name": "Liam Hemsworth",
+          "role": "Gale Hawthorne",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0uTXTyPtjIzGZHYfMogt3E2JKM6v22TkmT_Ewx38BPmeMkwnbzWd3uvvCpF21QbtYvh_lZaC3vUbCf8gHHhy4aDjHxGIplshbUGjcyQ&s=10"
+        }
+      ]
+    },
+    {
+      "id": "the-ballad-of-songbirds-and-snakes",
+      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "featuredText": null,
+      "year": 2023,
+      "rating": 6.7,
+      "duration": "2h 37m",
+      "genre": ["Sci-Fi", "Action", "Adventure", "Drama"],
+      "description": "Decades before Katniss Everdeen, a young Coriolanus Snow is assigned to mentor Lucy Gray Baird during the 10th Hunger Games. As their relationship develops, Snow faces choices that will shape the future of Panem.",
+      "director": "Francis Lawrence",
+      "cover": "https://m.media-amazon.com/images/M/MV5BZDk2YjNhYzEtYzg2ZC00OWEwLWJhYzgtMGUzMWVjNDFmYzI5XkEyXkFqcGc@._V1_.jpg",
+      "bigCover": "https://oberlinreview.org/wp-content/uploads/2023/12/hunger-games-2-courtesy-of-imdb-1-1200x800.jpg",
+      "featured": false,
+      "link": "https://vidfast.vc/movie/tt10545296",
+      "actors": [
+        {
+          "name": "Tom Blyth",
+          "role": "Coriolanus Snow",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkXJKIsc_s_Bs0RIfomo9OSx-VqX4plsxMcPMNEPpKCQ&s"
+        },
+        {
+          "name": "Rachel Zegler",
+          "role": "Lucy Gray Baird",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJaXRfMvDS4uJ9zgN-BaWYBQeGKOUDYZIv1BI3OReC1gBJFIWZu9NbUXwy&s=10"
+        },
+        {
+          "name": "Peter Dinklage",
+          "role": "Dean Casca Highbottom",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Peter_Dinklage_by_Gage_Skidmore_2.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
+        }
+      ]
+    },
+    {
+      "id": "planet-of-the-apes-1968",
+      "title": "Planet of the Apes",
+      "featuredText": null,
+      "year": 1968,
+      "rating": 8.0,
+      "duration": "1h 52m",
+      "genre": ["Sci-Fi", "Adventure", "Action"],
+      "description": "An astronaut crew crash-lands on a mysterious planet ruled by intelligent apes. Captain George Taylor discovers that humans are treated as primitive creatures and uncovers a shocking secret about the planet.",
+      "director": "Franklin J. Schaffner",
+      "cover": "https://image.tmdb.org/t/p/w500/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+      "bigCover": "https://loudandclearreviews.com/wp-content/uploads/2026/03/planet-apes-1024x512.webp",
+      "featured": false,
+      "link": "https://vidfast.vc/movie/tt0063442",
+      "actors": [
+        {
+          "name": "Charlton Heston",
+          "role": "George Taylor",
+          "image": "https://m.media-amazon.com/images/M/MV5BMmZkZDU3ZTktMTMxNS00MTI5LTlkNzItNzk2Y2I3OGRhYWY2XkEyXkFqcGc@._V1_.jpg"
+        },
+        {
+          "name": "Roddy McDowall",
+          "role": "Cornelius",
+          "image": "https://images.mubicdn.net/images/cast_member/14017/cache-6702-1637093410/image-w856.jpg"
+        },
+        {
+          "name": "Kim Hunter",
+          "role": "Dr. Zira",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Kim_Hunter_Money%2C_Women_and_Guns_still_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
+        }
+      ]
+    },
+    {
+      "id": "beneath-the-planet-of-the-apes",
+      "title": "Beneath the Planet of the Apes",
+      "featuredText": null,
+      "year": 1970,
+      "rating": 6.0,
+      "duration": "1h 35m",
+      "genre": ["Sci-Fi", "Adventure", "Action"],
+      "description": "Another astronaut arrives on the mysterious planet searching for Taylor. His journey leads him underground, where he discovers a hidden civilization of mutant humans who worship a devastating weapon.",
+      "director": "Ted Post",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCj5LF1GakqPyqO6_OyNqPmRSrNKl-JabwIlAbwKgLSOiSL-t2E4XTJqaw29KAZRCh90fdvA&s=10",
+      "bigCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-lZ4ZZ7EGSIRYIeFuUsFu2DEyGQ_730NodPTPM_fiow6UKg35Z5p_wLBV&s=10",
+      "featured": false,
+      "link": "https://vidfast.vc/movie/tt0065462",
+      "actors": [
+        {
+          "name": "James Franciscus",
+          "role": "John Brent",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAitNa-ZOSY47gMTi6ybhA_Gptpbneh_wqgV9CQoFu_qnD6L3e-xHc_XH6Mo8fMDPQbP2Jv3-jU7UZVs_jvdUgIkMMpO8BhtY4Sua9lEk&s=10"
+        },
+        {
+          "name": "Kim Hunter",
+          "role": "Dr. Zira",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Kim_Hunter_Money%2C_Women_and_Guns_still_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
+        },
+        {
+          "name": "Maurice Evans",
+          "role": "Dr. Zaius",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY4MzE4NDY3Nl5BMl5BanBnXkFtZTcwMjAyNDIzOA@@._V1_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "escape-from-the-planet-of-the-apes",
+      "title": "Escape from the Planet of the Apes",
+      "featuredText": null,
+      "year": 1971,
+      "rating": 6.3,
+      "duration": "1h 38m",
+      "genre": ["Sci-Fi", "Adventure", "Drama"],
+      "description": "Cornelius and Zira escape the destruction of their world and travel back in time to 20th-century Earth. Initially welcomed as celebrities, they soon become targets when humans discover their origins and what the future holds.",
+      "director": "Don Taylor",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm7HUoM8x4OzwEq0gi3E7coMeQfSmo5cS9JapDvoPb0xV6KxL3DuqAT7Pf-sgKkXrDZ19n0Q&s=10",
+      "bigCover": "https://nonamemovieblog.wordpress.com/wp-content/uploads/2011/08/escapeapeslanding.jpg",
+      "featured": false,
+      "link": "https://vidfast.vc/movie/tt0067065",
+      "actors": [
+        {
+          "name": "Roddy McDowall",
+          "role": "Cornelius",
+          "image": "https://images.mubicdn.net/images/cast_member/14017/cache-6702-1637093410/image-w856.jpg"
+        },
+        {
+          "name": "Kim Hunter",
+          "role": "Dr. Zira",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Kim_Hunter_Money%2C_Women_and_Guns_still_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
+        },
+        {
+          "name": "Bradford Dillman",
+          "role": "Dr. Lewis Dixon",
+          "image": "https://variety.com/wp-content/uploads/2018/01/bradforddillman.jpg?w=1000&h=562&crop=1"
+        }
+      ]
+    },
+    {
+      "id": "conquest-of-the-planet-of-the-apes",
+      "title": "Conquest of the Planet of the Apes",
+      "featuredText": null,
+      "year": 1972,
+      "rating": 6.1,
+      "duration": "1h 28m",
+      "genre": ["Sci-Fi", "Action", "Drama"],
+      "description": "In a future where apes have become enslaved servants, Caesar, the son of Cornelius and Zira, rises against humanity and leads a revolution that will change the future of the planet.",
+      "director": "J. Lee Thompson",
+      "cover": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3083_p_v11_ah.jpg",
+      "bigCover": "https://i.ytimg.com/vi/9xJOcfHKjzU/maxresdefault.jpg",
+      "featured": false,
+      "link": "https://vidfast.vc/movie/tt0068408",
+      "actors": [
+        {
+          "name": "Roddy McDowall",
+          "role": "Caesar",
+          "image": "https://images.mubicdn.net/images/cast_member/14017/cache-6702-1637093410/image-w856.jpg"
+        },
+        {
+          "name": "Don Murray",
+          "role": "Governor Breck",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXt05S8oVgVcLEkJodoFRNfAMQglQTPM2AheSctzoChwRJECC667nCbjoJkZ7RGa6gptReV2Vro0YbT4VsbSLcd_mkcMY9qYvtFb-jIg&s=10"
+        },
+        {
+          "name": "Ricardo Montalban",
+          "role": "Armando",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1udWULipckQEbBDixcBE4FREUrb8zMUj5ydpcEr9AjemnMKPJyAvinfsgCelc56HpN-9ZvoQyxHEJSjdOQdFGkenJy6nfmxHzGkbepg&s=10"
+        }
+      ]
+    },
+    {
+      "id": "battle-for-the-planet-of-the-apes",
+      "title": "Battle for the Planet of the Apes",
+      "featuredText": null,
+      "year": 1973,
+      "rating": 5.4,
+      "duration": "1h 33m",
+      "genre": ["Sci-Fi", "Adventure", "Action"],
+      "description": "Years after the ape revolution, Caesar attempts to build a peaceful society where humans and apes can coexist. However, growing tensions and a power-hungry ape threaten the future of their civilization.",
+      "director": "J. Lee Thompson",
+      "cover": "https://m.media-amazon.com/images/I/71nAFKyWOvL._AC_UF894,1000_QL80_.jpg",
+      "bigCover": "https://images.squarespace-cdn.com/content/v1/57e05e534402434aa0f846c2/1499967097637-NXLX1SMQGJ93SP6FZ2Y2/BattlePOTA-1.jpg?format=1000w",
+      "featured": false,
+      "link": "https://vidfast.vc/movie/tt0069768",
+      "actors": [
+        {
+          "name": "Roddy McDowall",
+          "role": "Caesar",
+          "image": "https://images.mubicdn.net/images/cast_member/14017/cache-6702-1637093410/image-w856.jpg"
+        },
+        {
+          "name": "Claude Akins",
+          "role": "General Aldo",
+          "image": "https://resizing.flixster.com/OZocFpE4tZ6Uqo49_O1CfzTTazU=/fit-in/352x330/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/13182_v9_ba.jpg"
+        },
+        {
+          "name": "Natalie Trundy",
+          "role": "Lisa",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Natalie_Trundy.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
+        }
+      ]
+    }
+  ]
+}
