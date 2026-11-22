@@ -611,32 +611,32 @@
     {
   "id": "angry-birds",
   "title": "The Angry Birds Movie",
-  "featuredText": null,
+  "featuredText": "https://image.tmdb.org/t/p/w500/2P30puEHlxPjVRjDz9BYlCVX0fh.png",
   "year": 2016,
   "rating": 6.3,
   "duration": "1h 37m",
   "genre": ["Animation", "Adventure", "Comedy"],
   "description": "Red, a short-tempered bird, teams up with Chuck and Bomb to investigate the mysterious arrival of green pigs on their peaceful island.",
   "director": "Clay Kaytis, Fergal Reilly",
-  "cover": "https://image.tmdb.org/t/p/w342/ckx2i9w2mYz3xJ0pK7f1eW0kW9.jpg",
-  "bigCover": null,
+  "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvcrpcMkek3nzswRc5m2KaXzWGE0H3Rf3FtVnx9gNyPJovizIownS9dzE&s=10",
+  "bigCover": "https://image.tmdb.org/t/p/original/o4mhrLxv6I70kvYA42qANGUF7ya.jpg",
   "featured": false,
   "link": "https://vidfast.vc/movie/tt1985949",
   "actors": [
     {
       "name": "Jason Sudeikis",
       "role": "Red",
-      "image": null
+      "image": "https://image.tmdb.org/t/p/w342/uuacnP9DOHMsmj8FhBi0cWWDgrn.jpg"
     },
     {
       "name": "Josh Gad",
       "role": "Chuck",
-      "image": null
+      "image": "https://image.tmdb.org/t/p/w342/17iKlfWZBDTAucqjkhRKHr9xjIz.jpg"
     },
     {
       "name": "Danny McBride",
       "role": "Bomb",
-      "image": null
+      "image": "https://image.tmdb.org/t/p/w342/sVFPzl2t5QlGudQKWAszIWZCXZv.jpg"
     }
   ]
 },
