@@ -959,6 +959,198 @@
       "image": "https://image.tmdb.org/t/p/w500/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
     }
   ]
+},
+    {
+  "id": "spider-man-brand-new-day",
+  "title": "Spider-Man: Brand New Day",
+  "featuredText": "https://image.tmdb.org/t/p/w500/dGMb0iSnNp7UMAHkKX63Kh6AJvy.png",
+  "year": 2026,
+  "rating": 7.9,
+  "duration": "2h 25m",
+  "genre": ["Action", "Adventure", "Science Fiction"],
+  "description": "Peter Parker lives alone as a full-time Spider-Man in a world that has forgotten him. As he struggles with his new life, a mysterious threat emerges that could change him forever.",
+  "director": "Destin Daniel Cretton",
+  "cover": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/340/2026/07/13172501/SMBND_Online_2000x3000_Hoodie_02-scaled.jpg",
+  "bigCover": "https://image.tmdb.org/t/p/original/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
+  "featured": true,
+  "link": "https://vidfast.vc/movie/tt22084616",
+  "actors": [
+    {
+      "name": "Tom Holland",
+      "role": "Peter Parker / Spider-Man",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr3s0TE6TSvLujwAvUFe_p6w-oEy0ODAkamqk8q5FEZ7QJhuFULgpB8Ak&s=10"
+    },
+    {
+      "name": "Zendaya",
+      "role": "MJ",
+      "image": "https://www.televisionacademy.com/files/assets_r/containers/assets/bios/zendaya-bio-2026-450x600.jpg/02f5487ca103e0ab849eaa6984d72505/zendaya-bio-2026-450x600.jpg"
+    },
+    {
+      "name": "Mark Ruffalo",
+      "role": "Bruce Banner / Hulk",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvDfys0j4Lvw3FtPvCpnt9JNd2PdAcbyj9BjCxTNsge4EW5lcEvCXFFl1OJZEqo9Mjpt2uMrpdpNyjyFWsyBDrB41YTi8tqLbJxifiNiM&s=10"
+    }
+  ]
+},
+{
+  "id": "a-bugs-life",
+  "title": "A Bug's Life",
+  "featuredText": null,
+  "year": 1998,
+  "rating": 7.2,
+  "duration": "1h 35m",
+  "genre": ["Animation", "Adventure", "Comedy", "Family"],
+  "description": "Flik, an inventive ant, accidentally ruins his colony's annual offering to a group of bullying grasshoppers. To save his home, he sets out to find warriors but mistakenly recruits a troupe of circus bugs.",
+  "director": "John Lasseter",
+  "cover": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/370/2025/08/13145350/Ah3J9OJVc2CNCuH2zMydXy9fmIC-scaled.jpg",
+  "bigCover": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/697f2bb9-0eaf-4c8f-8bc9-f92644664c86/compose?format=webp&width=2560",
+  "featured": false,
+  "link": "https://vidfast.vc/movie/tt0120623",
+  "actors": [
+    {
+      "name": "Dave Foley",
+      "role": "Flik",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzUwNWM2NDktYjM4My00ZGE0LWEwNTEtNjNhNWM1ZDFhZDc3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "Kevin Spacey",
+      "role": "Hopper",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQElZxy2EcVPwliyyX-YPtt5HwsmoB8h0t1alrRd2KTrIA8LNYbK16ndOSAc3BalA35cb3WN4Q6AOhtZHxGQuhbToytOM_X8UO0FNADhw&s=10"
+    },
+    {
+      "name": "Julia Louis-Dreyfus",
+      "role": "Princess Atta",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYzMDM2MTg2Nl5BMl5BanBnXkFtZTcwODQ0OTA1Mg@@._V1_FMjpg_UX1000_.jpg"
+    }
+  ]
+},
+{
+  "id": "a-charlie-brown-christmas",
+  "title": "A Charlie Brown Christmas",
+  "featuredText": null,
+  "year": 1965,
+  "rating": 8.3,
+  "duration": "25m",
+  "genre": ["Animation", "Comedy", "Family", "Christmas"],
+  "description": "Charlie Brown feels unhappy with the commercialism surrounding Christmas. With help from his friends, he attempts to discover the true meaning of the holiday by directing the school Christmas play.",
+  "director": "Bill Melendez",
+  "cover": "https://m.media-amazon.com/images/M/MV5BMjViMWMxNWItYTk2OC00MWQwLWIyMzktNDQ4YWIyYjcxZGIyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "bigCover": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4538x3013+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F72%2F193e947d41e7b83eedbb284b29b9%2Fcharliebrownchristmas-f0019f.jpg",
+  "featured": false,
+  "link": "https://vidfast.vc/movie/tt0059026",
+  "actors": [
+    {
+      "name": "Peter Robbins",
+      "role": "Charlie Brown",
+      "image": "https://people.com/thmb/kBe6sYHf8dqN8JmGWdcXHsgLS64=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(732x0:734x2)/peter-robbins-3-2000-cb4c2ca087dd47659672db41ea31fafc.jpg"
+    },
+    {
+      "name": "Christopher Shea",
+      "role": "Linus van Pelt",
+      "image": "https://static.tvmaze.com/uploads/images/medium_portrait/185/464421.jpg"
+    },
+    {
+      "name": "Tracy Stratford",
+      "role": "Lucy van Pelt",
+      "image": "https://i.pinimg.com/474x/75/38/fc/7538fc645020887bd0620bd4d35acb7f.jpg"
+    }
+  ]
+},
+{
+  "id": "a-goofy-movie",
+  "title": "A Goofy Movie",
+  "featuredText": null,
+  "year": 1995,
+  "rating": 7.0,
+  "duration": "1h 18m",
+  "genre": ["Animation", "Adventure", "Comedy", "Family"],
+  "description": "Goofy takes his teenage son Max on a cross-country fishing trip in hopes of bonding with him. However, Max has other plans, and their journey quickly turns into a series of hilarious adventures.",
+  "director": "Kevin Lima",
+  "cover": "https://static.wikia.nocookie.net/mickey-and-friends/images/a/a5/Goofy_movie_poster_.jpg/revision/latest?cb=20141215014612",
+  "bigCover": "https://www.theodysseyonline.com/media-library/image.png?id=22936246&width=980",
+  "featured": false,
+  "link": "https://vidfast.vc/movie/tt0113198",
+  "actors": [
+    {
+      "name": "Bill Farmer",
+      "role": "Goofy",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Bill_Farmer_%2853384965984%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
+    },
+    {
+      "name": "Jason Marsden",
+      "role": "Max Goof",
+      "image": "https://static.wikia.nocookie.net/ghostbusters/images/2/21/JasonMarsden.jpg/revision/latest/scale-to-width/360?cb=20190218054419"
+    },
+    {
+      "name": "Jim Cummings",
+      "role": "Pete",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn_EUKQWSJT7CLFy7LlYD3QEeU2HkxIde8QH3Ad03oTOFPKbX2--ZZEK5CXmkNeyzTmOS9vDkKkO8npqxh6Se5AEo3tEVmukhdj4iOBw&s=10"
+    }
+  ]
+},
+{
+  "id": "animal-farm-1954",
+  "title": "Animal Farm",
+  "featuredText": null,
+  "year": 1954,
+  "rating": 7.2,
+  "duration": "1h 12m",
+  "genre": ["Animation", "Drama", "Adventure"],
+  "description": "After the animals overthrow their human farmer, they attempt to build a society based on equality. However, the pigs gradually seize power and become just as oppressive as the humans they replaced.",
+  "director": "John Halas, Joy Batchelor",
+  "cover": "https://www.cinematerial.com/p/500x/l4z8rhxz/animal-farm-german-dvd-movie-cover.jpg?v=1456217122",
+  "bigCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT37FTOd9TP-MUlgMF8SYeXGksuNuYbhuNVmZtmfN95jQ&s=10",
+  "featured": false,
+  "link": "https://vidfast.vc/movie/tt0047834",
+  "actors": [
+    {
+      "name": "Gordon Heath",
+      "role": "Narrator",
+      "image": "https://aaregistry.org/wp-content/uploads/2022/10/gordon-heath.jpg"
+    },
+    {
+      "name": "Maurice Denham",
+      "role": "Various Animal Voices",
+      "image": "https://resizing.flixster.com/eY-3a4saXIOFzGZEhb6d1FqAjCg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/44517_v9_ba.jpg"
+    },
+    {
+      "name": "Gilles Cheslton",
+      "role": "Various Animal Voices",
+      "image": "https://png.pngtree.com/png-vector/20250818/ourmid/pngtree-whatsapp-default-profile-photo-vector-png-image_17034397.webp"
+    }
+  ]
+},
+{
+  "id": "animal-farm-2025",
+  "title": "Animal Farm",
+  "featuredText": null,
+  "year": 2025,
+  "rating": 3.1,
+  "duration": "1h 35m",
+  "genre": ["Animation", "Adventure", "Comedy", "Drama"],
+  "description": "After the animals overthrow their human farmer, they attempt to establish an equal society. But as the pigs take control, the farm descends into corruption and dictatorship.",
+  "director": "Andy Serkis",
+  "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp9dGFrESZGVwiQct17XPxSHC5KeiHI-abcBcB8HYZYNDEQt-CVySvmuiI2ixViJzZ0dHI&s=10",
+  "bigCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRckVl-eAdIBsNDEiS3OzEVTjCbQZPgbxwlFuSIKTdCzmhM2UAeINEhb_M&s=10",
+  "featured": false,
+  "link": "https://vidfast.vc/movie/tt2467700",
+  "actors": [
+    {
+      "name": "Seth Rogen",
+      "role": "Napoleon",
+      "image": "https://cdn.britannica.com/18/205618-050-7CC082C1/Seth-Rogen-2019.jpg"
+    },
+    {
+      "name": "Gaten Matarazzo",
+      "role": "Lucky",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTBlYmMxNzQtYWYzMC00NThjLWE0YzItYmY2MGJkZWM1MDFiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "Steve Buscemi",
+      "role": "Mr. Whymper",
+      "image": "https://image.tmdb.org/t/p/w235_and_h235_face/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+    }
+  ]
 }
   ]
 }
