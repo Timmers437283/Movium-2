@@ -607,6 +607,70 @@
           "image": "https://image.tmdb.org/t/p/w185/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
         }
       ]
+    },
+    {
+  "id": "angry-birds",
+  "title": "The Angry Birds Movie",
+  "featuredText": null,
+  "year": 2016,
+  "rating": 6.3,
+  "duration": "1h 37m",
+  "genre": ["Animation", "Adventure", "Comedy"],
+  "description": "Red, a short-tempered bird, teams up with Chuck and Bomb to investigate the mysterious arrival of green pigs on their peaceful island.",
+  "director": "Clay Kaytis, Fergal Reilly",
+  "cover": "https://image.tmdb.org/t/p/w342/ckx2i9w2mYz3xJ0pK7f1eW0kW9.jpg",
+  "bigCover": null,
+  "featured": false,
+  "link": "https://vidfast.vc/movie/tt1985949",
+  "actors": [
+    {
+      "name": "Jason Sudeikis",
+      "role": "Red",
+      "image": null
+    },
+    {
+      "name": "Josh Gad",
+      "role": "Chuck",
+      "image": null
+    },
+    {
+      "name": "Danny McBride",
+      "role": "Bomb",
+      "image": null
     }
+  ]
+},
+{
+  "id": "minecraft-movie",
+  "title": "A Minecraft Movie",
+  "featuredText": null,
+  "year": 2025,
+  "rating": 5.6,
+  "duration": "1h 41m",
+  "genre": ["Adventure", "Comedy", "Fantasy"],
+  "description": "Four misfits are transported into the Overworld, a strange cubic world where they must team up with Steve to survive and find their way home.",
+  "director": "Jared Hess",
+  "cover": "https://resizing.flixster.com/ViCYuISBvkrLsqD3ePYNSHszhoc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc1ZTAwYzViLTIyMzAtNDJmMS04NjNlLTBjMTAyMjkyZDhhYy5qcGc=",
+  "bigCover": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+  "featured": false,
+  "link": "https://vidfast.vc/movie/tt3566834",
+  "actors": [
+    {
+      "name": "Jack Black",
+      "role": "Steve",
+      "image": "https://image.tmdb.org/t/p/w342/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
+    },
+    {
+      "name": "Jason Momoa",
+      "role": "Garrett Garrison",
+      "image": "https://image.tmdb.org/t/p/w342/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+    },
+    {
+      "name": "Emma Myers",
+      "role": "Natalie",
+      "image": "https://image.tmdb.org/t/p/w342/v1Y8RP39135ZOary9M4MbkrCAdn.jpg"
+    }
+  ]
+}
   ]
 }
