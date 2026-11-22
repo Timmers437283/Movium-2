@@ -671,6 +671,166 @@
       "image": "https://image.tmdb.org/t/p/w342/v1Y8RP39135ZOary9M4MbkrCAdn.jpg"
     }
   ]
+},
+    {
+  "id": "planet-of-the-apes-2001",
+  "title": "Planet of the Apes",
+  "featuredText": null,
+  "year": 2001,
+  "rating": 5.7,
+  "duration": "2h 00m",
+  "genre": ["Science Fiction", "Adventure", "Action"],
+  "description": "Astronaut Leo Davidson crash-lands on a mysterious planet where intelligent apes rule over humans. With the help of an ape named Ari, he attempts to escape their civilization.",
+  "director": "Tim Burton",
+  "cover": "https://lumiere-a.akamaihd.net/v1/images/pota2001_1400x2100_44cb1723.jpeg?region=0%2C0%2C1400%2C2100",
+  "bigCover": "https://corndogchats.com/wp-content/uploads/2021/03/https___blogs-images.forbes.com_scottmendelson_files_2017_07_planet-of-the-apes-remake-mark-wahlberg-tim-roth-1200x812-1.jpg",
+  "featured": false,
+  "link": "https://vidfast.vc/movie/tt0133152",
+  "actors": [
+    {
+      "name": "Mark Wahlberg",
+      "role": "Captain Leo Davidson",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Mark_Wahlberg_2021.jpg/960px-Mark_Wahlberg_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    {
+      "name": "Tim Roth",
+      "role": "General Thade",
+      "image": "https://www.luxfilmfest.lu/wp-content/uploads/2025/02/Tim_Roth-scaled.jpg"
+    },
+    {
+      "name": "Helena Bonham Carter",
+      "role": "Ari",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRIbwreloSRvq9zT0yPVgTWU1h9G4rTPKmVqumJZlPcYxraWwKCcaWrnUW&s=10"
+    }
+  ]
+},
+{
+  "id": "rise-of-the-planet-of-the-apes",
+  "title": "Rise of the Planet of the Apes",
+  "featuredText": null,
+  "year": 2011,
+  "rating": 7.6,
+  "duration": "1h 45m",
+  "genre": ["Science Fiction", "Action", "Drama"],
+  "description": "A scientist develops a treatment for Alzheimer's that dramatically increases the intelligence of chimpanzees. One chimpanzee named Caesar begins to develop extraordinary abilities and eventually leads an uprising.",
+  "director": "Rupert Wyatt",
+  "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5-dU6O9VJCclyEEhsZG0UL2LTaGy5F2SXXJpvuYjNXkGBvdvDfRQOskl40YC4tD17XjZ&s=10",
+  "bigCover": "https://www.hollywoodreporter.com/wp-content/uploads/2011/08/rise_of_the_planet_of_the_apes_bridge_2011_a_l.jpg?w=1440&h=810&crop=1",
+  "featured": false,
+  "link": "https://vidfast.vc/movie/tt1318514",
+  "actors": [
+    {
+      "name": "Andy Serkis",
+      "role": "Caesar",
+      "image": "https://static.wikia.nocookie.net/kingkong/images/2/2b/Andy_Serkis.jpeg/revision/latest?cb=20250823132321&path-prefix=en"
+    },
+    {
+      "name": "James Franco",
+      "role": "Will Rodman",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA4MzMzNDM5MF5BMl5BanBnXkFtZTgwMjQ0MDk0NDM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "Freida Pinto",
+      "role": "Caroline Aranha",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Freida_Pinto_-_Youth_For_Change_%28cropped%29.jpg/960px-Freida_Pinto_-_Youth_For_Change_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+    }
+  ]
+},
+{
+  "id": "dawn-of-the-planet-of-the-apes",
+  "title": "Dawn of the Planet of the Apes",
+  "featuredText": null,
+  "year": 2014,
+  "rating": 7.6,
+  "duration": "2h 10m",
+  "genre": ["Science Fiction", "Action", "Drama"],
+  "description": "Ten years after a devastating virus, Caesar leads a growing community of intelligent apes. When a group of human survivors enters their territory, a fragile peace threatens to collapse.",
+  "director": "Matt Reeves",
+  "cover": "https://m.media-amazon.com/images/M/MV5BNWNjYzQ4ZGItZTg1My00NTM2LTg1NDUtYThjOTQwMTYyNjU1XkEyXkFqcGc@._V1_.jpg",
+  "bigCover": "https://deathoffilmcriticism.com/wp-content/uploads/2017/08/mv5bmtk2nta4mzg3ml5bml5banbnxkftztgwmje2ntg1mte-_v1_sx1777_cr001777929_al_.jpg?w=1777&h=929&crop=1",
+  "featured": false,
+  "link": "https://vidfast.vc/movie/tt2103281",
+  "actors": [
+    {
+      "name": "Andy Serkis",
+      "role": "Caesar",
+      "image": "https://static.wikia.nocookie.net/kingkong/images/2/2b/Andy_Serkis.jpeg/revision/latest?cb=20250823132321&path-prefix=en"
+    },
+    {
+      "name": "Jason Clarke",
+      "role": "Malcolm",
+      "image": "https://image.tmdb.org/t/p/w500/quH4y2dto3UAgZOfaM0QriyRLPN.jpg"
+    },
+    {
+      "name": "Gary Oldman",
+      "role": "Dreyfus",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXoRXYfsbch7otWr71h3BpSQweMekPqVRm4zqasl4a0Xrcf7wWglC0a7QFZPtHryxNQZKsL2-ZRpU0eoY8hTqklYI_iG2k68FQFrsaDQ&s=10"
+    }
+  ]
+},
+{
+  "id": "war-for-the-planet-of-the-apes",
+  "title": "War for the Planet of the Apes",
+  "featuredText": null,
+  "year": 2017,
+  "rating": 7.4,
+  "duration": "2h 20m",
+  "genre": ["Science Fiction", "Action", "Drama"],
+  "description": "Caesar and his apes are forced into a deadly conflict with a ruthless human military leader. As the war escalates, Caesar struggles with his darkest instincts while fighting for the future of his people.",
+  "director": "Matt Reeves",
+  "cover": "https://static.wikia.nocookie.net/planetoftheapes/images/5/5a/War_for_the_Planet_of_the_Apes_Final_Poster.jpg/revision/latest?cb=20170516151049",
+  "bigCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3152Hh_tny2bLZepRDbjgwzm-6RqCC3-JdG_CiP3GCPO2vY_QoI_B50th&s=10",
+  "featured": false,
+  "link": "https://vidfast.vc/movie/tt3450958",
+  "actors": [
+    {
+      "name": "Andy Serkis",
+      "role": "Caesar",
+      "image": "https://static.wikia.nocookie.net/kingkong/images/2/2b/Andy_Serkis.jpeg/revision/latest?cb=20250823132321&path-prefix=en"
+    },
+    {
+      "name": "Woody Harrelson",
+      "role": "The Colonel",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Woody_Harrelson_191020-N-NU281-1028_%28cropped%29.jpg/960px-Woody_Harrelson_191020-N-NU281-1028_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    {
+      "name": "Steve Zahn",
+      "role": "Bad Ape",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjNkOTc4ZWYtM2Q2Yi00NDQzLThlMzEtMTBiYzUzN2NlZDBmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    }
+  ]
+},
+{
+  "id": "kingdom-of-the-planet-of-the-apes",
+  "title": "Kingdom of the Planet of the Apes",
+  "featuredText": null,
+  "year": 2024,
+  "rating": 6.8,
+  "duration": "2h 25m",
+  "genre": ["Science Fiction", "Action", "Adventure"],
+  "description": "Generations after Caesar's reign, a young ape named Noa embarks on a journey that challenges everything he knows about the past and the future of apes and humans.",
+  "director": "Wes Ball",
+  "cover": "https://resizing.flixster.com/Z3G4m4KiDyyaaj8oHbfKcAxBYKw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg3N2E1NzE4LWY1OTAtNDI0MS05NGQyLTQxOWE2MjllMDE3YS5qcGc=",
+  "bigCover": "https://i.abcnewsfe.com/a/0e2d9c5e-062a-430e-94fd-4854e14aab74/kingdom-planet-apes-02-ht-jef-240507_1715106714484_hpMain.jpg",
+  "featured": false,
+  "link": "https://vidfast.vc/movie/tt11389872",
+  "actors": [
+    {
+      "name": "Owen Teague",
+      "role": "Noa",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Y8RTdY7CH-4uaSijHTVQFRfAH_2VQ9neAK_HEc2Qqcs9ykUz0ag6t5fW1IL68VE54fGdCX-QS2j6jg_XJrI7fY15kHmuEdgij4xkbQ&s=10"
+    },
+    {
+      "name": "Freya Allan",
+      "role": "Mae",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTCsYm7PTKfsyQR61Sf6PfKhU5fn78dng2GMmzCGoqETO0HltjzkyzdM45_TO7tlUaShqn0E_ouVibyEdN0hfg1aMB8ieLrSoiKftMqA&s=10"
+    },
+    {
+      "name": "Kevin Durand",
+      "role": "Proximus Caesar",
+      "image": "https://static.wikia.nocookie.net/pantheon-amc/images/d/d3/Kevin_Durand.jpg/revision/latest?cb=20220914140311"
+    }
+  ]
 }
   ]
 }
