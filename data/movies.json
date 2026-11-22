@@ -863,6 +863,102 @@
       "image": "https://static.wikia.nocookie.net/ultra/images/f/ff/Harrison_Page.png/revision/latest?cb=20130208194152"
     }
   ]
+},
+    {
+  "id": "avatar",
+  "title": "Avatar",
+  "featuredText": null,
+  "year": 2009,
+  "rating": 7.9,
+  "duration": "2h 42m",
+  "genre": ["Science Fiction", "Adventure", "Action"],
+  "description": "A paraplegic former Marine named Jake Sully is sent to the moon Pandora, where he becomes part of the Na'vi people through an artificial avatar. As he grows closer to Neytiri and her people, he must choose between following his mission and protecting their world.",
+  "director": "James Cameron",
+  "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwJPOxfRiaHwXkICnf6LKMHIPWJPGLx8wht-wZH-qFs0OXXUCBvOeCQTs79z7Bx9odsdsB&s=10",
+  "bigCover": "https://www.hollywoodreporter.com/wp-content/uploads/2017/01/avatar_2009_-_photofest_-_embed.jpg",
+  "featured": false,
+  "link": "https://vidfast.vc/movie/tt0499549",
+  "actors": [
+    {
+      "name": "Sam Worthington",
+      "role": "Jake Sully",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFVB0U4U1dy2Y9TqJjCP2g09gcZkEHT77j78Ca2qCHr5-4vErYmXvn6wquQfaKQsHIEMHSNDe_2VyFv9_11MLMPT5TF7XOGsw2oKODdKs&s=10"
+    },
+    {
+      "name": "Zoe Saldaña",
+      "role": "Neytiri",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVUv_0Cok2PF3ZZw9RPFcSXlIExGaXtuTelcgsmwFJJK8Umcnw03xQ8zMr93fnKLj4AyJaTZtNk36tyLZQ1J275aM77LPSBCsi72iTaQ&s=10"
+    },
+    {
+      "name": "Sigourney Weaver",
+      "role": "Dr. Grace Augustine",
+      "image": "https://image.tmdb.org/t/p/w500/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+    }
+  ]
+},
+{
+  "id": "avatar-fire-and-ash",
+  "title": "Avatar: Fire and Ash",
+  "featuredText": null,
+  "year": 2025,
+  "rating": 7.2,
+  "duration": "3h 17m",
+  "genre": ["Science Fiction", "Adventure", "Action", "Fantasy"],
+  "description": "Jake Sully and Neytiri's family face new challenges on Pandora as they encounter the Ash People, a fierce Na'vi clan led by the powerful Varang. A new conflict threatens the future of Pandora.",
+  "director": "James Cameron",
+  "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJfabXc-D7tjVJk2mvXAqbHb-od904psZVox0oXZZDlfAuO-QniiUY3FsboRqMyMn6qiLQEg&s=10",
+  "bigCover": "https://image.tmdb.org/t/p/original/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+  "featured": false,
+  "link": "https://vidfast.vc/movie/tt1757678",
+  "actors": [
+    {
+      "name": "Sam Worthington",
+      "role": "Jake Sully",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFVB0U4U1dy2Y9TqJjCP2g09gcZkEHT77j78Ca2qCHr5-4vErYmXvn6wquQfaKQsHIEMHSNDe_2VyFv9_11MLMPT5TF7XOGsw2oKODdKs&s=10"
+    },
+    {
+      "name": "Zoe Saldaña",
+      "role": "Neytiri",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVUv_0Cok2PF3ZZw9RPFcSXlIExGaXtuTelcgsmwFJJK8Umcnw03xQ8zMr93fnKLj4AyJaTZtNk36tyLZQ1J275aM77LPSBCsi72iTaQ&s=10"
+    },
+    {
+      "name": "Oona Chaplin",
+      "role": "Varang",
+      "image": "https://static.wikia.nocookie.net/goldenthroats/images/3/37/Oonachaplin.jpg/revision/latest/thumbnail/width/360/height/360?cb=20190719132220"
+    }
+  ]
+},
+{
+  "id": "avatar-the-way-of-water",
+  "title": "Avatar: The Way of Water",
+  "featuredText": null,
+  "year": 2022,
+  "rating": 7.5,
+  "duration": "3h 12m",
+  "genre": ["Science Fiction", "Adventure", "Action", "Fantasy"],
+  "description": "More than a decade after the events of the first film, Jake Sully and Neytiri have built a family on Pandora. When a familiar threat returns, they seek refuge with the ocean-dwelling Metkayina clan and discover a new way of life.",
+  "director": "James Cameron",
+  "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlW-ZhGp88erJb5ZByOPdKhcmD1bzm8Ogb3n_lRsgNab2h6Ri_CrVQIzIeFL_DcDO8heiY&s=10",
+  "bigCover": "https://image.tmdb.org/t/p/original/kJsPVzdyBrYHLomuNv5SJDXUQ2f.jpg",
+  "featured": false,
+  "link": "https://vidfast.vc/movie/76600",
+  "actors": [
+    {
+      "name": "Sam Worthington",
+      "role": "Jake Sully",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFVB0U4U1dy2Y9TqJjCP2g09gcZkEHT77j78Ca2qCHr5-4vErYmXvn6wquQfaKQsHIEMHSNDe_2VyFv9_11MLMPT5TF7XOGsw2oKODdKs&s=10"
+    },
+    {
+      "name": "Zoe Saldaña",
+      "role": "Neytiri",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVUv_0Cok2PF3ZZw9RPFcSXlIExGaXtuTelcgsmwFJJK8Umcnw03xQ8zMr93fnKLj4AyJaTZtNk36tyLZQ1J275aM77LPSBCsi72iTaQ&s=10"
+    },
+    {
+      "name": "Sigourney Weaver",
+      "role": "Kiri",
+      "image": "https://image.tmdb.org/t/p/w500/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+    }
+  ]
 }
   ]
 }
