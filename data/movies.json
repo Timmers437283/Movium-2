@@ -831,6 +831,38 @@
       "image": "https://static.wikia.nocookie.net/pantheon-amc/images/d/d3/Kevin_Durand.jpg/revision/latest?cb=20220914140311"
     }
   ]
+},
+    {
+  "id": "magazine-dreams",
+  "title": "Magazine Dreams",
+  "featuredText": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/346x192/v3/t/assets/p24952158_ttd_h95_aa.png",
+  "year": 2023,
+  "rating": 7.0,
+  "duration": "2h 03m",
+  "genre": ["Drama", "Psychological Drama"],
+  "description": "An aspiring bodybuilder named Killian Maddox becomes consumed by his dream of achieving recognition in professional bodybuilding, while struggling with isolation and the challenges of forming human connections.",
+  "director": "Elijah Bynum",
+  "cover": "https://m.media-amazon.com/images/M/MV5BNTBkYjk0YzMtNDAwYy00ZTU4LTg2MGUtZWVjNzFiZmE3NzUzXkEyXkFqcGc@._V1_.jpg",
+  "bigCover": "https://i0.wp.com/bostonmovienews.com/wp-content/uploads/2025/03/magazine-dreams.jpg?fit=1200%2C800&ssl=1",
+  "featured": true,
+  "link": "https://vidfast.vc/movie/tt13652142",
+  "actors": [
+    {
+      "name": "Jonathan Majors",
+      "role": "Killian Maddox",
+      "image": "https://static01.nyt.com/images/2024/06/25/multimedia/25majors-flbt/25majors-flbt-articleLarge-v3.jpg?quality=75&auto=avif&disable=upscale"
+    },
+    {
+      "name": "Haley Bennett",
+      "role": "Jessie",
+      "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQmuNGfKc-ZhwMMSybrdxZyGX1dMK8VzvJkDNhTvyG7BkfRgbSPoi2KX7uaE50SF8v-h3vJSFEXJl7YD1I"
+    },
+    {
+      "name": "Harrison Page",
+      "role": "William Lattimore",
+      "image": "https://static.wikia.nocookie.net/ultra/images/f/ff/Harrison_Page.png/revision/latest?cb=20130208194152"
+    }
+  ]
 }
   ]
 }
